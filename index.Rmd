@@ -1,5 +1,5 @@
 ---
-title: "Tobi Burns"
+title: "Stephen Balogun"
 image: "tobi.jpg"
 links:
   - label: LinkedIn
